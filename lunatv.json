@@ -481,10 +481,10 @@
             "name": "冰茶",
             "url": "https://bc.188766.xyz/?ip=&mima=bingcha1130"
         },
-        "电视家": {
-            "name": "电视家",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/电视家.m3u",
-            "ua": "okHttp/Mod-1.1.0"
+        "mursor": {
+            "name": "mursor",
+            "url": "https://live.ottiptv.cc/iptv.m3u?userid=7924371801&sign=4f7af0b96e43db1c03834c7955eb89942a1c3e96fcaf0fde9b79ff8bc334462776de6b3ea15cf7a5b0bee433941519842116499bc112b09942893c13d5f7e6c14a0aaf6b87dc42&auth_token=da8a7480c9466e5c3425117697479059",
+            "ua": "okHttp/Mod-1.5.0.0"
         }
     }
 }
