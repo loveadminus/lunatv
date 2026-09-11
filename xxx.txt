@@ -1,5 +1,5 @@
 lovevamp,#genre#
-🌲松视3,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+🌲松视3台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
 🌲松视1️⃣台,http://lc.aacalive.com:26789/i/ghjnvq5o/8c85giea/index.m3u8
 🌲松视2️⃣台,http://lc.aacalive.com:26789/i/ghjnvq5o/8c85fsaf/index.m3u8
 极限电影台,http://lc.aacalive.com:26789/i/ghjnvq5o/8c855fdf/index.m3u8
