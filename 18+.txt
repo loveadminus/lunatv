@@ -38,7 +38,6 @@ Dorcel Tv,http://212.70.131.37:8000/play/a080
 
 
 🌸松视直播,#genre#
-林依晨写真集,https://surrit.com/1f640c25-c1a1-4b8e-ac22-440e64cc5359/playlist.m3u8
 松视1,p3p://108.181.20.159:75234/5fe445280008a40682a0367c343436bb
 松视2,p3p://108.181.20.159:75234/60232b5f00007bc37850649979e379df
 松视1,http://live.redtraffic.xyz:80/fetish.m3u8
